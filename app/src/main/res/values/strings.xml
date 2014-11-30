@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="image_background">background</string>
+    <string name="TicTack" />
+    <string name="Choose">choose_color</string>
+    <string name="but1">New Button</string>
+    <string name="but2">New Button</string>
+    <string name="but3">New Button</string>
+    <string name="but4">New Button</string>
+    <string name="but5">New Button</string>
+    <string name="but6">New Button</string>
+    <string name="but7">New Button</string>
+    <string name="but8">New Button</string>
+    <string name="but9">New Button</string>
+    <string name="butForTry">New Button</string>
+    <string name="redBut">New Button</string>
+    <string name="choose">choose</string>
+    <string name="firstImage">firstImage</string>
+    <string name="but12">New Button</string>
+    <string name="but33">New Button</string>
+    <string name="Выйти">Выйти</string>
+    <string name="НоваяИгра">НоваяИгра</string>
+
+</resources>
